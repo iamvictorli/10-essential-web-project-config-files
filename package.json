@@ -1,0 +1,8 @@
+{
+  "name": "essential-web-project-config-files",
+  "version": "1.0.0",
+  "description": "my essential web project configuration files",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
