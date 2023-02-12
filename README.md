@@ -18,4 +18,4 @@ Unit Testing with [Vitest](https://vitest.dev/). configured in `vitest.config.ts
 
 Git hooks with [Husky](https://typicode.github.io/husky/#/). configured in directory `.husky`.
 
-`.husky/pre-commit` - lint staged. [Context switching kills productivity](https://youtu.be/ikn_dBSski8?t=433)
+`.husky/pre-commit` - lint/format/test staged git files before they are commited. [Context switching kills productivity](https://youtu.be/ikn_dBSski8?t=433)
