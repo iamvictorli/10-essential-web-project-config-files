@@ -3,7 +3,7 @@
 exports[`render 1`] = `
 <div>
   <div>
-    hello
+    hello world
   </div>
 </div>
 `;

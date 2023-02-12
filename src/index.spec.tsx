@@ -8,7 +8,7 @@ test('math', () => {
 })
 
 test('render', () => {
-  const { getByText, container } = render(<div>hello</div>)
-  expect(getByText('hello')).toBeTruthy()
+  const { getByText, container } = render(<div>hello world</div>)
+  expect(getByText('hello world')).toBeTruthy()
   expect(container).toMatchSnapshot()
 })

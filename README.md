@@ -13,3 +13,9 @@ Code formatting with [Prettier](https://prettier.io/). configured in `prettier.c
 ## Vitest
 
 Unit Testing with [Vitest](https://vitest.dev/). configured in `vitest.config.ts`. Command: `npm run test` and `npm run test:watch`
+
+## Husky
+
+Git hooks with [Husky](https://typicode.github.io/husky/#/). configured in directory `.husky`.
+
+`.husky/pre-commit` - lint staged. [Context switching kills productivity](https://youtu.be/ikn_dBSski8?t=433)
