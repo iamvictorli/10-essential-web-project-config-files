@@ -9,3 +9,7 @@ Linting with [ESLint](https://eslint.org/). configured in `.eslintrc.js`. Comman
 ## Prettier
 
 Code formatting with [Prettier](https://prettier.io/). configured in `prettier.config.js` and `.prettierignore`. Command: `npm run format`
+
+## Vitest
+
+Unit Testing with [Vitest](https://vitest.dev/). configured in `vitest.config.ts`. Command: `npm run test` and `npm run test:watch`

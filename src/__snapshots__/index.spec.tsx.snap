@@ -1,0 +1,9 @@
+// Vitest Snapshot v1
+
+exports[`render 1`] = `
+<div>
+  <div>
+    hello
+  </div>
+</div>
+`;
