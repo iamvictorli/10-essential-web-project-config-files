@@ -27,3 +27,11 @@ Git hooks with [Husky](https://typicode.github.io/husky/#/). configured in direc
 ## Github Actions
 
 CI/CD with [Github Actions](https://docs.github.com/en/actions). configured in directory `.github/workflows`
+
+## Zod
+
+Developer friendly validation library with [Zod](https://zod.dev/). Schema first and works great with Typescript. [Free Zod course](https://zod.dev/)
+
+[Zod to X](https://zod.dev/?id=zod-to-x)
+
+[X to Zod](https://zod.dev/?id=x-to-zod)
