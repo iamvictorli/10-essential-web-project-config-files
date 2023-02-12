@@ -1,4 +1,4 @@
-# 10 essential web project config files I can't work without
+# 10 essential web project libraries I can't work without
 
 inspired by [GQ celebrity essentials](https://www.youtube.com/playlist?list=PL0hKMB1-xkc8t5sXk1arVDl-TQslbTdEm), mostly for projects using [remix.run](https://remix.run/) or [Next.js](https://nextjs.org/)
 
@@ -35,3 +35,7 @@ Developer friendly validation library with [Zod](https://zod.dev/). Schema first
 [Zod to X](https://zod.dev/?id=zod-to-x)
 
 [X to Zod](https://zod.dev/?id=x-to-zod)
+
+## dotenv-safe
+
+Ensure environment variables are set with [dotenv-safe](https://www.npmjs.com/package/dotenv-safe). configured with `.env.example`
